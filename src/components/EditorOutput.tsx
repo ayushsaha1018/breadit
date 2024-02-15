@@ -1,3 +1,5 @@
+"use client";
+
 import dynamic from "next/dynamic";
 import Image from "next/image";
 import { FC } from "react";
@@ -22,7 +24,7 @@ const style = {
 
 const renderers = {
   image: CustomImageRenderer,
-    code: CustomCodeRenderer,
+  code: CustomCodeRenderer,
 };
 
 const EditorOutput: FC<EditorOutputProps> = ({ content }) => {
