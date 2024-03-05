@@ -22,6 +22,7 @@ A full-stack modern reddit clone that allows users to create, manage and post su
 
 ```shell
 git clone https://github.com/ayushsaha1018/breadit.git
+```
 
 ### Install packages
 
