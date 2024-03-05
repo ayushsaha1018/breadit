@@ -21,8 +21,7 @@ A full-stack modern reddit clone that allows users to create, manage and post su
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/ayushsaha1018/ecommerce-admin.git
-```
+git clone https://github.com/ayushsaha1018/breadit.git
 
 ### Install packages
 
